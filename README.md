@@ -1,4 +1,4 @@
-# Hey there, I'm Jerome! 👋
+# Hey there, I'm Jim! 👋
 
 I'm a passionate software engineer currently working at Trend Micro with a focus on AWS cloud infrastructure. I love working on the full stack, from frontend to backend, and deploying systems in AWS.
 
@@ -81,7 +81,7 @@ I'm a passionate software engineer currently working at Trend Micro with a focus
 
 ## Let's Connect
 
-- 📧 Email: [jeromebambao@gmail.com](mailto:jeromebambao@gmail.com)
+- 📧 Email: [jeromebambao@gmail.com](mailto:2193871@gmail.com)
 - 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/jbee)
 
 ## Fun Facts
@@ -89,6 +89,6 @@ I'm a passionate software engineer currently working at Trend Micro with a focus
 
 ## GitHub Stats
 
-![Jay Bee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JIMBambao&show_icons=true&theme=dark)
+![Jay Bee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmiebee&show_icons=true&theme=dark)
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch. 😄
