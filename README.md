@@ -81,7 +81,7 @@ I'm a passionate software engineer currently working at Trend Micro with a focus
 
 ## Let's Connect
 
-- 📧 Email: [jeromebambao@gmail.com](mailto:2193871@gmail.com)
+- 📧 Email: [2193871@gmail.com](mailto:2193871@gmail.com)
 - 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/jbee)
 
 ## Fun Facts
